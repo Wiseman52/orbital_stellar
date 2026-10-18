@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1329-25-22-anchor-sdk-tsdoc-for-sep-24-sep-31-and",
+    "fix/issue-1331-25-24-abi-registry-tsdoc-for-codegen-config-and",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1329-25-22-anchor-sdk-tsdoc-for-sep-24-sep-31-and": "main",
+    "fix/issue-1331-25-24-abi-registry-tsdoc-for-codegen-config-and": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1329-25-22-anchor-sdk-tsdoc-for-sep-24-sep-31-and",
+    "fix/issue-1331-25-24-abi-registry-tsdoc-for-codegen-config-and",
+    "origin"
+  ]
+}
